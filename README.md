@@ -1,7 +1,3 @@
-# 💬 chat-app
-
-chat-app is a full-stack, real-time chat application built with the **MERN stack**, providing instant messaging, user authentication, and online status updates in a sleek and responsive interface.
-
 ## 🎯 Project Overview
 
 This application enables users to create accounts, securely log in, and engage in real-time conversations with others. Built with scalability, performance, and user experience in mind, it uses **Socket.IO** for real-time communication and **Zustand** for lightweight state management on the frontend.
