@@ -35,5 +35,5 @@ This application enables users to create accounts, securely log in, and engage i
 
 ## 📸 Screenshots
 
-![Login Page](.frontend/src/assets/screenshot.png)
-![Chat Page](.frontend/src/assets/screenshot1.png)
+![Login Page](./frontend/src/assets/screenshot.png)
+![Chat Page](./frontend/src/assets/screenshot1.png)
